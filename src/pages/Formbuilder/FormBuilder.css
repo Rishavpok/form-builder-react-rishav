@@ -1,0 +1,4 @@
+.form-builder-section {
+    display: flex;
+    justify-content: space-evenly;
+}
