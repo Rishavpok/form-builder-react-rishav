@@ -1,14 +1,14 @@
 
 import './App.css'
 import Navbar from './components/layout/Navbar'
-import FormBuilder from './pages/Formbuilder/FormBuilder'
+import Home from './pages/Home/Home'
 
 function App() {
 
   return (
     <>
     <Navbar />
-    <FormBuilder />
+    <Home />
     </>
   )
 }
