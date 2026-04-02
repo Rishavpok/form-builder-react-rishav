@@ -9,7 +9,7 @@ select,
 textarea {
   font-family: var(--font-body);
   font-size: var(--text-base);
-  color: var(--color-text);
+  color: #fff;
   background: var(--color-bg-input);
   border: 1px solid  #000;
   border-radius: var(--radius-md);
